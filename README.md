@@ -26,9 +26,8 @@ This project serves as a hands-on learning experience in Solidity smart contract
 
 The Mame Coin (MAME) contract has been successfully deployed and verified on the Sepolia Test Network. You can inspect its code and transaction history directly on Etherscan:
 
-**Contract Address:** `[PASTE ALAMAT KONTRAK ASLI ANDA DI SINI]`
-[Link Etherscan Sepolia untuk kontrak Anda] (Contoh: `https://sepolia.etherscan.io/address/0x9f660a169a54967bfd0eca77c8e1c1ce5284315a`)
-
+**Contract Address:** `0x9f660a169a54967bfd0eca77c8e1c1ce5284315a`
+[Link Etherscan Sepolia untuk kontrak Anda](https://sepolia.etherscan.io/address/0x9f660a169a54967bfd0eca77c8e1c1ce5284315a)
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
